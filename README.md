@@ -15,3 +15,4 @@ Table of contents:
 
 1. `JF01_TheBasics`: comments, statements, class, and entry point
 2. `JF02_Packages`: packages and imports
+3. `JF03_VarsTypesOperators`: variables, literals, types, and arithmethic operators
