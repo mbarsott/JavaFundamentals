@@ -9,8 +9,9 @@
 
 /**
  * This is a Javadoc comment. It is a special type of block comment.
- * It starts with "whack asterisk asterisk" and is used to generate documentation automatically.
- * from your Java source code. Javadoc is the name of the tool that generates the documentation.
+ * It starts with "whack asterisk asterisk" and is used to generate documentation from
+ * your Java source code automatically.
+ * Javadoc is the name of the tool that generates the documentation.
  * Read more @ https://en.wikipedia.org/wiki/Javadoc
  */
 
@@ -23,10 +24,9 @@ public class JF01_TheBasics {
   // it can be where your program starts running, the entry point.
   public static void main(String[] args) {
 
+    // Statements end with a semicolon. Spaces (or tabs, or new line characters) do not matter for the compiler.
     // This is a statement and it prints the string "Hello Java Fundamentals" on the console (System.out).
     System.out.println("Hello Java Fundamentals!");
-
-    // Statements end with a semicolon. Spaces (or tabs, or new line characters) do not matter for the compiler.
 
   }
 
