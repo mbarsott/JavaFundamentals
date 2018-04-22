@@ -120,3 +120,7 @@ public class JF03_VarsTypesOperators {
     System.out.println((++i) + ((2 * 5) % (i++))); // Just checking if parenthesis also work the same
   }
 }
+
+// previous file: src/com/fledger/javafundamentals/JF02_Packages.java -> https://goo.gl/DnMZgs
+// next file: src/com/fledger/javafundamentals/JF04_ScopesConversionsBoxing.java ->
+

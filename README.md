@@ -15,4 +15,5 @@ Table of contents:
 
 1. `JF01_TheBasics`: comments, statements, class, and entry point
 2. `JF02_Packages`: packages and imports
-3. `JF03_VarsTypesOperators`: variables, literals, types, and arithmethic operators
+3. `JF03_VarsTypesOperators`: variables, literals, types, and arithmetic operators
+4. `JF04_ScopesConversionsBoxing`: variable scope, type conversion, boxing and unboxing primitive types

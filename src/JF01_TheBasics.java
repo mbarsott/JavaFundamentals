@@ -41,4 +41,5 @@ public class JF01_TheBasics {
   */
 }
 
-// Next Source code: src/com/fledger/javafundamentals/JF02_Packages.java -> https://goo.gl/DnMZgs
+// previous file: src/com/fledger/javafundamentals/JF02_Packages.java -> https://goo.gl/DnMZgs
+// next file: src/com/fledger/javafundamentals/JF04_ScopesConversionsBoxing.java -> https://goo.gl/4q3RCT

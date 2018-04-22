@@ -50,4 +50,4 @@ public class JF02_Packages {
 }
 
 // previous file: src/JF01_TheBasics.java -> https://goo.gl/rJN5Aj
-// next file: src/com/fledger/javafundamentals/JF03_xxx.java ->
+// next file: src/com/fledger/javafundamentals/JF03_VarsTypesOperators.java -> https://goo.gl/oQEf6N
