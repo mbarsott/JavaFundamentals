@@ -19,9 +19,9 @@
 // as the class plus the extension ".java".
 public class JF01_TheBasics {
 
-  // This a program entry point. If a method (function inside a class) has this exact signature:
+  // This a program entry point. If a method (function inside of a class) has this exact signature:
   // public static void main(String[] args)
-  // it can be where your program starts running, the entry point.
+  // it can be where your program starts running: the entry point.
   public static void main(String[] args) {
 
     // Statements end with a semicolon. Spaces (or tabs, or new line characters) do not matter for the compiler.
@@ -41,5 +41,4 @@ public class JF01_TheBasics {
   */
 }
 
-// previous file: src/com/fledger/javafundamentals/JF02_Packages.java -> https://goo.gl/DnMZgs
-// next file: src/com/fledger/javafundamentals/JF04_ScopesConversionsBoxing.java -> https://goo.gl/4q3RCT
+// next file: src/com/fledger/javafundamentals/JF02_Packages.java -> https://goo.gl/DnMZgs

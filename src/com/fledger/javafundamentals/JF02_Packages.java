@@ -7,14 +7,12 @@
 // ex.: www.fledger.com -> "com.fledger"
 // following the inverted domain name, you choose the package hierarchy to organize your code
 // The folder structure should reflect the package hierarchy, from the root of the source code.
-// ex.: "com.fledger.javafundamentals" -> src/com/fledger/javafundamentals (if src is the root of source code)
+// ex.: "com.fledger.javafundamentals" -> src/com/fledger/javafundamentals (if src is the root of the source code)
 package com.fledger.javafundamentals;
 
 // Import statements let you use code from other classes or packages
-
 // The following statement lets you use the class Date from the package "java.util":
 import java.util.Date;
-
 // The following statement lets you use any class from the "java.text" package (including "DateFormat"):
 import java.text.*;
 
@@ -24,14 +22,14 @@ public class JF02_Packages {
 
   // You already know what an entry point is:
   public static void main(String[] args) {
-    // You can create new objects from a class using the new keyword.
-    // This creates a new object variable called "now" from the class "Date" (that contains date and time).
+    // You can create new objects from a class using the new keyword. (we will talk more about this later)
+    // This statement creates a new object variable called "now" from the class "Date" (that contains date and time).
     // This object will contain the the current date and time, because this class was programmed to do that.
-    Date now = new Date();
+    Date now = new Date(); // new Date() results in a Date object with the current date and time.
     // Some functions can create and return objects too.
-    // This statement creates a DateFormat object to format a "Date" with the long time format.
-    DateFormat dateFormat = DateFormat.getTimeInstance(DateFormat.LONG);
-    // This writes the current time using the long time format.
+    // This statement creates a DateFormat object to format a "Date" with a long time format.
+    DateFormat dateFormat = DateFormat.getTimeInstance(DateFormat.LONG); // getTimeInstance function creates an object.
+    // This statement writes the current time using the long time format.
     System.out.println("Now it is " + dateFormat.format(now));
   }
 
@@ -45,7 +43,7 @@ public class JF02_Packages {
       Notice that you compile (javac) a file (with .java extension),
       and you run (java) a class (using its fully qualified name)
       Result: you should see "Now it is " followed by the current time on the screen.
-      By the way, it is about time for you to use an IDE. I recommend Eclipse or IntelliJ Idea CE, both free!
+      By the way, it is about time for you to use an IDE. I recommend Eclipse, STS, or IntelliJ Idea CE, all free!
     */
 }
 
