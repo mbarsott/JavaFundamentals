@@ -1,6 +1,6 @@
  # JavaFundamentals
 
-This project intends to quickly show you or remind you the Java syntax and usage for many common constructs and standard Java libraries.
+This project intends to quickly show or remind you the Java syntax and usage for many common constructs and standard Java libraries.
 
 There are explanations as comments inside the code.
 
@@ -13,7 +13,7 @@ They are also numbered, so they show up in order inside your folder and you can 
 
 Table of contents:
 
-1. `JF01_TheBasics`: comments, statements, class, and entry point
-2. `JF02_Packages`: packages and imports
-3. `JF03_VarsTypesOperators`: variables, literals, types, and arithmetic operators
-4. `JF04_ScopesConversionsBoxing`: variable scope, type conversion, boxing and unboxing primitive types
+1. [`JF01_TheBasics`](https://goo.gl/rJN5Aj): comments, statements, class, and entry point
+2. [`JF02_Packages`](https://goo.gl/DnMZgs): packages and imports
+3. [`JF03_VarsTypesOperators`](https://goo.gl/oQEf6N): variables, literals, types, and arithmetic operators
+4. [`JF04_ScopesConversionsBoxing`](https://goo.gl/4q3RCT): variable scope, type conversion, boxing and unboxing primitive types
