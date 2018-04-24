@@ -17,6 +17,8 @@ public class JF03_VarsTypesOperators {
     i = 5;
     // You can declare and assign variables in one statement:
     int j = 10;
+    // You can declare and assign multiple variables of the same type in one row:
+    int a = 0, b = 1, c;
     // Variables names can contain letters, numbers, $, and _. The first character cannot be a number.
     // By convention, java developers use "camel case" for variable names: first word in lower case,
     // and tge following words in lowercase starting with uppercase. This is camel case:
