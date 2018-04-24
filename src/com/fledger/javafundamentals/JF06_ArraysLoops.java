@@ -86,3 +86,6 @@ public class JF06_ArraysLoops {
     System.out.println("These are the elements in myArrayOfDoubles");
   }
 }
+
+// previous file: src/com/fledger/javafundamentals/JF05_IfSwitchLogicalOpsRelationalOps.java -> https://goo.gl/46fxPa
+

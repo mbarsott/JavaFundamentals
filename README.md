@@ -18,3 +18,4 @@ Table of contents:
 3. [`JF03_VarsTypesOperators`](https://goo.gl/oQEf6N): variables, literals, types, and arithmetic operators
 4. [`JF04_ScopesConversionsBoxing`](https://goo.gl/4q3RCT): variable scope, type conversion, boxing and unboxing primitive types
 5. [`JF05_IfSwitchLogicalOpsRelationalOps`](https://goo.gl/46fxPa): if, conditional assignment, switch, logical and relational operators
+6. [`JF06_ArraysLoops`](https://goo.gl/Cq8YW1): arrays and loops

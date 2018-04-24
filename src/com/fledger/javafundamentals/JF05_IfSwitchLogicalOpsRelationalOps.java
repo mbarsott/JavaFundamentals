@@ -108,3 +108,4 @@ public class JF05_IfSwitchLogicalOpsRelationalOps {
 }
 
 // previous file: src/com/fledger/javafundamentals/JF04_ScopesConversionsBoxing.java -> https://goo.gl/4q3RCT
+// next file: src/com/fledger/javafundamentals/JF06_ArraysLoops.java -> https://goo.gl/Cq8YW1
