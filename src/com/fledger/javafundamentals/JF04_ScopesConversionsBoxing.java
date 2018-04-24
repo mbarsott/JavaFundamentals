@@ -90,4 +90,4 @@ public class JF04_ScopesConversionsBoxing {
 }
 
 // previous file: src/com/fledger/javafundamentals/JF03_VarsTypesOperators.java -> https://goo.gl/oQEf6N
-// next file:
+// next file: src/com/fledger/javafundamentals/JF05_IfSwitchLogicalOpsRelationalOps.java -> https://goo.gl/46fxPa
