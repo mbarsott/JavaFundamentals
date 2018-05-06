@@ -21,8 +21,8 @@ public class JF01_TheBasics {
 
   // This a program entry point. If a method (function inside of a class) has this exact signature:
   // public static void main(String[] args)
-  // it can be where your program starts running: the entry point.
-  public static void main(String[] args) {
+  // This is where your program starts running, the entry point.
+  public static void main(String[] args) { // we will explain the "public" keyword when we explain classes in detail.
 
     // Statements end with a semicolon. Spaces (or tabs, or new line characters) do not matter for the compiler.
     // This is a statement and it prints the string "Hello Java Fundamentals" on the console (System.out).

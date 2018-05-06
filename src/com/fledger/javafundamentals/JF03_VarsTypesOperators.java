@@ -72,7 +72,7 @@ public class JF03_VarsTypesOperators {
     // When you declare non primitive type variables (objects), space is allocated for the value and the
     // variable receives a reference to that space: objects are stored by reference, indirectly. See the example:
     Date now = new Date(); // creates a Date object variable, that contains current date and time... by reference!
-    Date oneHourAgo = new Date(now.getTime() - 60 /*minutes*/ * 60 /*seconds*/ * 1000 /*milis*/);
+    Date oneHourAgo = new Date(now.getTime() - 60 /* minutes */ * 60 /* seconds */ * 1000 /* milliseconds */);
     System.out.println("Objects are stored by reference: now and oneHourAgo");
     System.out.println(now); // prints current date and time
     System.out.println(oneHourAgo); // prints date and time of one hour ago

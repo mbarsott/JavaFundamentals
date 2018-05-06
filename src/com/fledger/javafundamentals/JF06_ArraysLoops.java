@@ -74,7 +74,7 @@ public class JF06_ArraysLoops {
       double d = myArrayOfDoubles[j];
       System.out.print(d + "; ");
     }
-    System.out.println("These are the elements in myArrayOfDoubles");
+    System.out.println("These are also the elements in myArrayOfDoubles");
 
     // And with a while loop
     int j = 0;
@@ -83,7 +83,25 @@ public class JF06_ArraysLoops {
       System.out.print(d + "; ");
       j++;
     }
-    System.out.println("These are the elements in myArrayOfDoubles");
+    System.out.println("And one more time, the elements in myArrayOfDoubles");
+
+    // A special type of loop is the forever loop. Make the loop run forever, then break out under a certain condition:
+    while (true) {
+      System.out.print(j + "... ");
+      if (j-- <= 0) {
+        System.out.println("Breaking out the forever loop");
+        break; // Never, never forget to break out of a forever loop!
+      }
+    }
+
+    // Another way to write a forever loop:
+    for (; ; ) { // If you leave the condition empty in the for loop, it is considered true.
+      System.out.print(j + "... ");
+      if (j++ >= 5) {
+        System.out.println("You got the idea about breaking out the forever loop");
+        break; // Never, never forget to break out of a forever loop!
+      }
+    }
   }
 }
 
